@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+		<field name="id" type="hidden" />
+		<field name="greeting" type="text" label="COM_CHILENETWORK_CHILENETWORK_GREETING_LABEL" 
+		description="COM_CHILENETWORK_CHILENETWORK_GREETING_DESC" size="40" class="inputbox" default="Agradecimientos" />
+	</fieldset>
+</form>

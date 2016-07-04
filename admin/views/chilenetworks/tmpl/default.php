@@ -82,3 +82,4 @@ $listDirn      = $this->escape($this->state->get('list.direction'));
 	<?php echo JHtml::_('form.token'); ?>
 </form>
 
+

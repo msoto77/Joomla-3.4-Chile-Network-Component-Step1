@@ -13,7 +13,7 @@ defined('_JEXEC') or die;
 /**
  * ChileNetwork Model
  *
- * @since  0.0.1
+ * @since  1.0.0
  */
 class ChileNetworkModelChileNetwork extends JModelAdmin
 {

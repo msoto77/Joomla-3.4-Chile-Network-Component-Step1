@@ -11,11 +11,10 @@
 defined('_JEXEC') or die;
 
 /**
- * Chile Network Component Controller
+ * ChileNetwork Component Controller
  *
  * @since  1.0.0
  */
 class ChileNetworkController extends JControllerLegacy
 {
- //
 }

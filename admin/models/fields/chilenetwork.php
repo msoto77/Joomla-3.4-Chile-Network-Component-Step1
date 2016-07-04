@@ -17,14 +17,14 @@ JFormHelper::loadFieldClass('list');
  *
  * @since  0.0.1
  */
-class JFormFieldChileNetwork extends JFormFieldList
+class JFormFieldChilenetwork extends JFormFieldList
 {
 	/**
 	 * The field type.
 	 *
 	 * @var         string
 	 */
-	protected $type = 'ChileNetwork';
+	protected $type = 'Chilenetwork';
 
 	/**
 	 * Method to get a list of options for a list input.

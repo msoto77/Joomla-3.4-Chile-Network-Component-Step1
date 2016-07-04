@@ -13,7 +13,7 @@ defined('_JEXEC') or die;
 /**
  * HTML View class for the ChileNetwork Component
  *
- * @since  0.0.1
+ * @since  1.0.0
  */
 class ChileNetworkViewChileNetwork extends JViewLegacy
 {

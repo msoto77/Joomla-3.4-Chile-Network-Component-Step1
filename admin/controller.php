@@ -15,7 +15,7 @@ defined('_JEXEC') or die;
  *
  * @package     Joomla.Administrator
  * @subpackage  com_chilenetwork
- * @since       0.0.7
+ * @since       1.0.0
  */
 class ChileNetworkController extends JControllerLegacy
 {
